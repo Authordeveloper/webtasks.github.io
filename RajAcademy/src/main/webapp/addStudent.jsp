@@ -1,4 +1,4 @@
-pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@page import="java.sql.Connection" %>
 <%@page import="java.sql.DriverManager" %>
 <%@page import="java.sql.SQLException" %>
@@ -64,7 +64,7 @@ pageEncoding="UTF-8"%>
             <div class="form-group">
                 <div  class="col-sm-4"></div>
                 <div  class="col-sm-4">
-                    <h2 style="text-align: center">Teacher Details</h2>
+                    <h2 style="text-align: center">Student Details</h2>
                 </div>
             </div>
             <hr/>
